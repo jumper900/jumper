@@ -1,0 +1,24 @@
+.bol{
+  padding-top: 20px;
+    
+}
+
+body{
+    background-color: black;
+}
+.row{
+    margin-right:  0!important;
+    margin-left: 0!important;
+}
+
+.jig{
+    height: 320px;
+}
+
+.till{
+    height: 380px; width: 300px;
+}
+
+.pill{
+    height: 390px; width: 300px;
+}
