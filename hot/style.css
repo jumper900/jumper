@@ -1,0 +1,19 @@
+
+
+body{
+	background-color: black;
+}
+
+@media (max-width: 900px){
+
+.jol{
+	display: none;
+}
+
+
+
+.hip{
+	width: 70%!important;
+}
+
+}
