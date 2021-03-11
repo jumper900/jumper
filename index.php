@@ -16,46 +16,9 @@
 	
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img src="img/ass.jpg" class="img-fluid pb-1 "> </div>
+			<div class="col-lg-12 col-md-12 col-sm-12">
 			
-			
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img src="img/cia.jpg" class="img-fluid pb-1"> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img  src="img/cum.jpg" class="img-fluid pb-1 "> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<a href="hot/index.php"><video class="img-fluid pb-1" src="sec.mp4" autoplay="" controlslist="" playsinline="" loop=""  muted=""></video></a></div>
-			
-		
-
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<a href="hot/index.php"><video class="img-fluid pb-1 bol" src="sea.mp4" autoplay="" controlslist="" playsinline="" loop=""  muted=""></video></a></div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img style="" src="img/tim.jpg" class="img-fluid pb-1"> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img class="pill" src="img/hum.jpg" class="img-fluid pb-1"> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img class="till"  src="img/umm.jpg" class="img-fluid pb-1"> </div>
-			
-			
-			
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img  src="img/sin.jpg" class="img-fluid pb-1 jam"> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img src="img/pi.jpg" class="img-fluid pb-1"> </div>
-			
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img src="img/blk.jpg" class="img-fluid pb-1"> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img src="img/hit.jpg" class="img-fluid pb-1"> </div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<a href="hot/index.php"><video class="img-fluid pb-1" src="first.mp4" autoplay="" controlslist="" playsinline="" loop=""  muted=""></video></a></div>
-			<div class="col-lg-3 col-md-4 col-sm-6">
-			<img class="jig" src="img/pim.jpg" class="img-fluid pb-1"> </div>
-			
-			
-			
+			<script src="https://gist.github.com/jumper900/afaf4ff51e78e66429df7a5d76d8e44d.js"></script>
 		</div>
 	</div>
 	
